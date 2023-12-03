@@ -1,0 +1,59 @@
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\HumanBenchmark\HumanBenchmark\bin\Debug\HumanBenchmark.exe.config
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\HumanBenchmark\HumanBenchmark\bin\Debug\HumanBenchmark.exe
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\HumanBenchmark\HumanBenchmark\bin\Debug\HumanBenchmark.pdb
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\HumanBenchmark\HumanBenchmark\bin\Debug\Animation2D.dll
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\HumanBenchmark\HumanBenchmark\bin\Debug\MonoGame.Framework.dll
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\HumanBenchmark\HumanBenchmark\bin\Debug\MonoGame.Framework.xml
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.csprojAssemblyReference.cache
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.csproj.CoreCompileInputs.cache
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.csproj.CopyComplete
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.exe
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.pdb
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\HumanBenchmark\HumanBenchmark\bin\Debug\Helper.dll
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\bin\Debug\HumanBenchmark.exe.config
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\bin\Debug\HumanBenchmark.exe
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\bin\Debug\HumanBenchmark.pdb
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\bin\Debug\Animation2D.dll
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\bin\Debug\Helper.dll
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\bin\Debug\MonoGame.Framework.dll
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\bin\Debug\MonoGame.Framework.xml
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.csproj.CoreCompileInputs.cache
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.csproj.CopyComplete
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.exe
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.pdb
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.csprojAssemblyReference.cache
+D:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\bin\Debug\HumanBenchmark.exe.config
+D:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\bin\Debug\HumanBenchmark.exe
+D:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\bin\Debug\HumanBenchmark.pdb
+D:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\bin\Debug\Animation2D.dll
+D:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\bin\Debug\Helper.dll
+D:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\bin\Debug\MonoGame.Framework.dll
+D:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\bin\Debug\MonoGame.Framework.xml
+D:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.csprojAssemblyReference.cache
+D:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.csproj.CoreCompileInputs.cache
+D:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.csproj.CopyComplete
+D:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.exe
+D:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\FullGame\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.pdb
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\StudentStarter\HumanBenchmark\HumanBenchmark\bin\Debug\HumanBenchmark.exe.config
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\StudentStarter\HumanBenchmark\HumanBenchmark\bin\Debug\HumanBenchmark.exe
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\StudentStarter\HumanBenchmark\HumanBenchmark\bin\Debug\HumanBenchmark.pdb
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\StudentStarter\HumanBenchmark\HumanBenchmark\bin\Debug\Animation2D.dll
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\StudentStarter\HumanBenchmark\HumanBenchmark\bin\Debug\Helper.dll
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\StudentStarter\HumanBenchmark\HumanBenchmark\bin\Debug\MonoGame.Framework.dll
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\StudentStarter\HumanBenchmark\HumanBenchmark\bin\Debug\MonoGame.Framework.xml
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\StudentStarter\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.csproj.CoreCompileInputs.cache
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\StudentStarter\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.csproj.CopyComplete
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\StudentStarter\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.exe
+E:\Work\ICS\ICS3\AandE\Assignments\03 PASS2\W22\StudentStarter\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.pdb
+C:\Users\AM_admin\OneDrive\Desktop\ICS3\Assignments\PASS2\HumanBenchmark\HumanBenchmark\bin\Debug\HumanBenchmark.exe.config
+C:\Users\AM_admin\OneDrive\Desktop\ICS3\Assignments\PASS2\HumanBenchmark\HumanBenchmark\bin\Debug\HumanBenchmark.exe
+C:\Users\AM_admin\OneDrive\Desktop\ICS3\Assignments\PASS2\HumanBenchmark\HumanBenchmark\bin\Debug\HumanBenchmark.pdb
+C:\Users\AM_admin\OneDrive\Desktop\ICS3\Assignments\PASS2\HumanBenchmark\HumanBenchmark\bin\Debug\Animation2D.dll
+C:\Users\AM_admin\OneDrive\Desktop\ICS3\Assignments\PASS2\HumanBenchmark\HumanBenchmark\bin\Debug\Helper.dll
+C:\Users\AM_admin\OneDrive\Desktop\ICS3\Assignments\PASS2\HumanBenchmark\HumanBenchmark\bin\Debug\MonoGame.Framework.dll
+C:\Users\AM_admin\OneDrive\Desktop\ICS3\Assignments\PASS2\HumanBenchmark\HumanBenchmark\bin\Debug\MonoGame.Framework.xml
+C:\Users\AM_admin\OneDrive\Desktop\ICS3\Assignments\PASS2\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.csproj.CoreCompileInputs.cache
+C:\Users\AM_admin\OneDrive\Desktop\ICS3\Assignments\PASS2\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.csproj.CopyComplete
+C:\Users\AM_admin\OneDrive\Desktop\ICS3\Assignments\PASS2\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.exe
+C:\Users\AM_admin\OneDrive\Desktop\ICS3\Assignments\PASS2\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.pdb
+C:\Users\AM_admin\OneDrive\Desktop\ICS3\Assignments\PASS2\HumanBenchmark\HumanBenchmark\obj\Debug\HumanBenchmark.csprojAssemblyReference.cache
